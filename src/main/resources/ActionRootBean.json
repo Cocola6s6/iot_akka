@@ -1,0 +1,17 @@
+{
+  "_comment": "test",
+  "deviceMsg": [
+    {
+      "key": "1",
+      "value": "A"
+    },
+    {
+      "key": "2",
+      "value": "A"
+    },
+    {
+      "key": "3",
+      "value": "A"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: iot-akka
+  profiles:
+    active: dev
+
+server:
+  port: 9091
+
+
+
+
